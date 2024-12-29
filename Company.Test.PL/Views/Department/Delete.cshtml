@@ -1,0 +1,18 @@
+﻿@model DepartmentVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Details Department</h1>
+<br />
+<br />
+
+<form asp-action="Delete">
+ 
+    <partial name="PartialView/DetailsDeletePartialView"></partial>
+
+    <br />
+    <input type="submit" class="btn btn-danger"  value="Delete" />
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
+

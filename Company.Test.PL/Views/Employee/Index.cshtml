@@ -1,0 +1,75 @@
+﻿@model IEnumerable<EmployeeVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<form asp-action="Index">
+  <div class="row m-5">
+        <div class="col-8">
+            <input type="text" name="InputSearch" class="form-control" />
+        </div>
+        <div class="col-4">
+            <input type="submit" class="btn btn-success" />
+        </div>
+  </div>
+</form>
+
+<h1>All Department Page</h1>
+<br />
+<br />
+<a asp-action="Create" class="btn btn-primary">Create Employee</a>
+<br />
+
+@if (Model.Count() != 0)
+{
+    <table  class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(e=>e.Image)</th>
+                <th>@Html.DisplayNameFor(e=>e.Name)</th>
+                <th>@Html.DisplayNameFor(e=>e.Age)</th>
+                <th>@Html.DisplayNameFor(e=>e.Workfor)</th>
+                <th>@Html.DisplayNameFor(e=>e.Address)</th>
+                <th>@Html.DisplayNameFor(e=>e.Salary)</th>
+                <th>@Html.DisplayNameFor(e=>e.PhoneNumber)</th>
+                <th>@Html.DisplayNameFor(e=>e.IsActive)</th>
+                <th>@Html.DisplayNameFor(e=>e.HiringDate)</th>
+                <th>@Html.DisplayNameFor(e=>e.DateOfCreation)</th>
+                <th>Details</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+            <tr>
+                    <td>
+                        <img src="~/Files/Images/@employee.ImageName" width="75" class="rounded-circle" />
+                    </td>
+                    <td>@employee.Name</td>
+                    <td>@employee.Age</td>
+                    <td>@employee.Workfor?.Name</td>
+                    <td>@employee.Address</td>
+                    <td>@employee.Salary</td>
+                    <td>@employee.PhoneNumber</td>
+                    <td>@employee.IsActive</td>
+                    <td>@employee.HiringDate</td>
+                    <td>@employee.DateOfCreation</td>
+                    <td><a asp-action="Details" asp-route-id="@employee.Id" class="btn btn-warning">Details</a></td>
+                    <td><a asp-action="Edit" asp-route-id="@employee.Id" class="btn btn-success">Edit</a></td>
+                    <td><a asp-action="Delete" asp-route-id="@employee.Id" class="btn btn-danger">Delete</a></td>
+            </tr>
+            }
+           
+        </tbody>
+    </table>
+  
+}
+else
+{
+ <div class="alert alert-danger text-center">
+     <h5>No Department Found</h5>
+ </div>   
+}
+

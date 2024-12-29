@@ -1,0 +1,1181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\N-T Arch\\Company.TestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\employee\\partialview\\createeditemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\employee\\partialview\\createeditemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\employee\\partialview\\detailsdeletepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\employee\\partialview\\detailsdeletepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\mapping\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\mapping\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\company.test.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\company.test.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\company.test.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\company.test.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\repositories\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.bll\\company.test.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2B3EE0E-919F-4AAF-8D01-01488708CA0C}|Compant.Test.BLL\\Company.Test.BLL.csproj|solutionrelative:compant.test.bll\\company.test.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\addorremoveuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\addorremoveuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\userinrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\userinrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\rolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\rolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\partialview\\detailsdeleterolepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\partialview\\detailsdeleterolepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\role\\partialview\\createeditrolepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\role\\partialview\\createeditrolepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\user\\partialview\\detailsdeleteuserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\user\\partialview\\detailsdeleteuserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\user\\partialview\\createedituserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\user\\partialview\\createedituserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\authviewmodel\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\authviewmodel\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\authviewmodel\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\authviewmodel\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\authviewmodel\\signinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\authviewmodel\\signinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\viewmodels\\authviewmodel\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\viewmodels\\authviewmodel\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\wwwroot\\css\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\wwwroot\\css\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\company.test.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BAD8B9-B582-4E59-B3EB-37A0BEE12079}|Company.Test.PL\\Company.Test.PL.csproj|solutionrelative:company.test.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\data\\migrations\\20240926182722_addimagenameprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\data\\migrations\\20240926182722_addimagenameprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|d:\\new folder\\n-t arch\\company.testsolution\\compant.test.dal\\data\\migrations\\20240926223818_addidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB50B892-25D2-4F32-AD80-831C4738FC9E}|Compant.Test.DAL\\Company.Test.DAL.csproj|solutionrelative:compant.test.dal\\data\\migrations\\20240926223818_addidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T19:01:31.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T19:40:54.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:52:40.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Helpers\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Helpers\\DocumentSettings.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Helpers\\DocumentSettings.cs",
+              "RelativeToolTip": "Company.Test.PL\\Helpers\\DocumentSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:28:16.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Models\\Employee.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\Employee.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Models\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAzczMzMwowBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:25:51.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T19:34:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateEditEmployeePartialView.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\PartialView\\CreateEditEmployeePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Employee\\PartialView\\CreateEditEmployeePartialView.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\PartialView\\CreateEditEmployeePartialView.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Employee\\PartialView\\CreateEditEmployeePartialView.cshtml",
+              "ViewState": "AQIAAAkAAACAZmZmZmYkwBgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:52:44.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Company.Test.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAHAAAABgMzMzMzMlwIMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:47:18.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:32:58.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetailsDeletePartialView.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\PartialView\\DetailsDeletePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Employee\\PartialView\\DetailsDeletePartialView.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Employee\\PartialView\\DetailsDeletePartialView.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Employee\\PartialView\\DetailsDeletePartialView.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:31:06.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Company.Test.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJEAAAAA0P/////vv6sAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:51:31.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Models\\Email.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\Email.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:08:49.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Helpers\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Helpers\\EmailSettings.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Helpers\\EmailSettings.cs",
+              "RelativeToolTip": "Company.Test.PL\\Helpers\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:35:19.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "userController.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Controllers\\userController.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\userController.cs",
+              "RelativeToolTip": "Company.Test.PL\\Controllers\\userController.cs",
+              "ViewState": "AQIAAI8AAAAAaGZmZmYOwA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:25:05.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Models\\Department.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:06:21.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:34:36.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:35:10.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Company.Test.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:56:00.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:55:01.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Program.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Program.cs",
+              "RelativeToolTip": "Company.Test.PL\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:32:08.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Departmentprofile.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Mapping\\Departmentprofile.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Mapping\\Departmentprofile.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Mapping\\Departmentprofile.cs",
+              "RelativeToolTip": "Company.Test.PL\\Mapping\\Departmentprofile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:09:28.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Mapping\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Mapping\\EmployeeProfile.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Mapping\\EmployeeProfile.cs",
+              "RelativeToolTip": "Company.Test.PL\\Mapping\\EmployeeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:08:09.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Company.Test.DAL.csproj",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Company.Test.DAL.csproj",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Company.Test.DAL.csproj",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Company.Test.DAL.csproj",
+              "RelativeToolTip": "Compant.Test.DAL\\Company.Test.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T19:12:01.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Company.Test.PL.csproj",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Company.Test.PL.csproj",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Company.Test.PL.csproj",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Company.Test.PL.csproj",
+              "RelativeToolTip": "Company.Test.PL\\Company.Test.PL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T18:47:52.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Company.Test.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:44:30.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Company.Test.PL\\appsettings.json",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\appsettings.json",
+              "RelativeToolTip": "Company.Test.PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T14:52:18.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\UnitOfWork.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\UnitOfWork.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:41:48.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:20:28.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:20:56.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenaricRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Repositories\\GenaricRepository.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Repositories\\GenaricRepository.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Repositories\\GenaricRepository.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\Repositories\\GenaricRepository.cs",
+              "ViewState": "AQIAABMAAACAAAAAAAAQwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:09:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:20:41.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:19:42.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:14:32.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Interfaces\\IGenaricRepository.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Interfaces\\IGenaricRepository.cs",
+              "RelativeToolTip": "Compant.Test.BLL\\Interfaces\\IGenaricRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T20:13:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:56:18.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeConfigurations.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:58:48.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T23:06:25.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CheckYourInbox.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T01:01:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T01:58:31.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T19:06:17.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Company.Test.BLL.csproj",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Company.Test.BLL.csproj",
+              "RelativeDocumentMoniker": "Compant.Test.BLL\\Company.Test.BLL.csproj",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.BLL\\Company.Test.BLL.csproj",
+              "RelativeToolTip": "Compant.Test.BLL\\Company.Test.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T19:11:57.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T01:31:54.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T14:54:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DetailsDeleteRolePartialView.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\PartialView\\DetailsDeleteRolePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\PartialView\\DetailsDeleteRolePartialView.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\PartialView\\DetailsDeleteRolePartialView.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\PartialView\\DetailsDeleteRolePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:22:04.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Company.Test.PL\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAjwAoBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:58:25.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Delete.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:22:20.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Details.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\Details.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Details.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:22:45.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:23:04.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:23:29.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserInRoleVM.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\UserInRoleVM.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\UserInRoleVM.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\UserInRoleVM.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\UserInRoleVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:33:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddOrRemoveUser.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\AddOrRemoveUser.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\AddOrRemoveUser.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\AddOrRemoveUser.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\AddOrRemoveUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T17:40:20.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:24:21.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleVM.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\RoleVM.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\RoleVM.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\RoleVM.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\RoleVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:04:03.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateEditRolePartialView.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\PartialView\\CreateEditRolePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Role\\PartialView\\CreateEditRolePartialView.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Role\\PartialView\\CreateEditRolePartialView.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Role\\PartialView\\CreateEditRolePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T16:21:26.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:47:15.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\user\\Delete.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Delete.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\user\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:26:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Details.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\user\\Details.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Details.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\user\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:30:30.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateEditUserPartialView.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\PartialView\\CreateEditUserPartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\user\\PartialView\\CreateEditUserPartialView.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\PartialView\\CreateEditUserPartialView.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\user\\PartialView\\CreateEditUserPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:28:24.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\user\\Edit.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Edit.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\user\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:37:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\UserVM.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\UserVM.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\UserVM.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\UserVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:29:07.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DetailsDeleteUserPartialView.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\PartialView\\DetailsDeleteUserPartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\user\\PartialView\\DetailsDeleteUserPartialView.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\PartialView\\DetailsDeleteUserPartialView.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\user\\PartialView\\DetailsDeleteUserPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:27:33.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\user\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\user\\Index.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\user\\Index.cshtml",
+              "ViewState": "AQIAACMAAABAMzMzMzMrwDwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T14:40:13.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAcAAAAAzczMzMwiwBMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T23:02:23.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T01:48:53.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ResetPasswordVM.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\ResetPasswordVM.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\AuthViewModel\\ResetPasswordVM.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\ResetPasswordVM.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\AuthViewModel\\ResetPasswordVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:31:21.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SignInVM.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\SignInVM.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\AuthViewModel\\SignInVM.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\SignInVM.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\AuthViewModel\\SignInVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:15:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SignUpVM.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\SignUpVM.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\AuthViewModel\\SignUpVM.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\SignUpVM.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\AuthViewModel\\SignUpVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA+wBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:54:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ForgetPasswordVM.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\ForgetPasswordVM.cs",
+              "RelativeDocumentMoniker": "Company.Test.PL\\ViewModels\\AuthViewModel\\ForgetPasswordVM.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\ViewModels\\AuthViewModel\\ForgetPasswordVM.cs",
+              "RelativeToolTip": "Company.Test.PL\\ViewModels\\AuthViewModel\\ForgetPasswordVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:59:18.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240926223818_AddIdentityUser.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Migrations\\20240926223818_AddIdentityUser.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Data\\Migrations\\20240926223818_AddIdentityUser.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Migrations\\20240926223818_AddIdentityUser.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Data\\Migrations\\20240926223818_AddIdentityUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:38:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Company.Test.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Company.Test.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T23:06:52.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SignUp.css",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\wwwroot\\css\\SignUp.css",
+              "RelativeDocumentMoniker": "Company.Test.PL\\wwwroot\\css\\SignUp.css",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Company.Test.PL\\wwwroot\\css\\SignUp.css",
+              "RelativeToolTip": "Company.Test.PL\\wwwroot\\css\\SignUp.css",
+              "ViewState": "AQIAAI4BAAAAQDMzMzMLwPsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T23:13:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240926182722_AddImageNameProp.cs",
+              "DocumentMoniker": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Migrations\\20240926182722_AddImageNameProp.cs",
+              "RelativeDocumentMoniker": "Compant.Test.DAL\\Data\\Migrations\\20240926182722_AddImageNameProp.cs",
+              "ToolTip": "D:\\New folder\\N-T Arch\\Company.TestSolution\\Compant.Test.DAL\\Data\\Migrations\\20240926182722_AddImageNameProp.cs",
+              "RelativeToolTip": "Compant.Test.DAL\\Data\\Migrations\\20240926182722_AddImageNameProp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:27:22.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

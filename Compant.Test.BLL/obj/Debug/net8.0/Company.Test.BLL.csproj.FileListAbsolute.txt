@@ -1,0 +1,30 @@
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.BLL.deps.json
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.BLL.dll
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.BLL.pdb
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.DAL.dll
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.DAL.pdb
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.csproj.AssemblyReference.cache
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.AssemblyInfoInputs.cache
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.AssemblyInfo.cs
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company..B0F7F03C.Up2Date
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.dll
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\refint\Company.Test.BLL.dll
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.pdb
+C:\Users\Sherif\OneDrive\Desktop\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\ref\Company.Test.BLL.dll
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.BLL.deps.json
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.BLL.dll
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.BLL.pdb
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.DAL.dll
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\bin\Debug\net8.0\Company.Test.DAL.pdb
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.csproj.AssemblyReference.cache
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.AssemblyInfoInputs.cache
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.AssemblyInfo.cs
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.csproj.CoreCompileInputs.cache
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company..B0F7F03C.Up2Date
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.dll
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\refint\Company.Test.BLL.dll
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\Company.Test.BLL.pdb
+D:\New folder\N-T Arch\Company.TestSolution\Compant.Test.BLL\obj\Debug\net8.0\ref\Company.Test.BLL.dll
